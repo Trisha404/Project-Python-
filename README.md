@@ -1,2 +1,2 @@
-# Project: Python-
+# Project: Python
 100 days of code challenge
