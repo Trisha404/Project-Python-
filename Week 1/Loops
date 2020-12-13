@@ -1,0 +1,11 @@
+fruits = ["Apple, Peach, Pear"]
+for fruit in fruits:
+  print (fruit)
+
+  pets = ["cat", "dog", "Penguin"]
+  for pets in pets:
+    print (pets)
+
+print (fruit + "Pie")
+
+print (pets +  "Panda" )
